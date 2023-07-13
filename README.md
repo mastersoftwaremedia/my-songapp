@@ -55,5 +55,4 @@ CLOUDINARY_API_SECRET=
 ```
 npm start
 ```
-
-If you have any questions about the project, feel free to email me @ fortestingpurpose06@gmail.com
+Login with existing ID and password: john@gmail.com / 123456
